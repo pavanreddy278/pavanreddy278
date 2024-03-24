@@ -1,5 +1,5 @@
 ### Hi there 👋 🤖
-###- 🌱 I’m currently learning ... [![My Skills](https://skillicons.dev/icons?i=java,figma&theme=light)](https://skillicons.dev)
+- 🌱 I’m currently learning ... [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 # 💻 My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,figma&theme=light)](https://skillicons.dev)
