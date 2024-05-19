@@ -1,7 +1,7 @@
 ### Hi there 👋 🤖
 - 🌱 I’m currently learning ... [![My Skills](https://skillicons.dev/icons?i=hibernate,spring&theme=light)](https://skillicons.dev)
 # 💻 My Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 
